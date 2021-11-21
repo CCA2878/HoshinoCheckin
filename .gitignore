@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+database/
+hoshino/
+data/
+
 build/
 develop-eggs/
 dist/
